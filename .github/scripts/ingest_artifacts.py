@@ -8,6 +8,8 @@ from docx import Document
 from pptx import Presentation
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from decimal import Decimal
+import hashlib
+
 
 dynamodb = boto3.resource("dynamodb", region_name=os.environ["AWS_REGION"])
 table = dynamodb.Table("BaseOneRAG")
@@ -28,6 +30,13 @@ def embed_text(text):
     except Exception as e:
         print(f"[ERROR] Failed to embed text: {e}")
         return None
+    
+def compute_file_hash(filepath):
+    hasher = hashlib.sha256()
+    with open(filepath, 'rb') as f:
+        buf = f.read()
+        hasher.update(buf)
+    return hasher.hexdigest()
 
 def extract_text_from_file(filepath):
     ext = filepath.lower().split(".")[-1]
@@ -55,9 +64,20 @@ def extract_text_from_file(filepath):
         print(f"[ERROR] Failed to extract {filepath}: {e}")
     return text
 
-def chunk_and_upload(text, source):
+def chunk_and_upload(text, source, file_hash):
     if not text.strip():
         return
+
+    # Check for existing file by hash
+    existing = table.query(
+        KeyConditionExpression=boto3.dynamodb.conditions.Key('PK').eq('DOC#BaseOne')
+    ).get('Items', [])
+
+    if any(item.get('file_hash') == file_hash for item in existing):
+        print(f"[SKIP] {source} already ingested.")
+        return
+
+    # Process and upload
     chunks = text_splitter.split_text(text)
     for chunk in chunks:
         embedding = embed_text(chunk)
@@ -66,15 +86,17 @@ def chunk_and_upload(text, source):
             id = str(uuid.uuid4())
             try:
                 table.put_item(Item={
-                    "PK": "DOC#BaseOne", 
+                    "PK": "DOC#BaseOne",
                     "SK": f"CHUNK#{id}",
                     "text": chunk,
                     "embedding": embedding_decimal,
-                    "source": source
+                    "source": source,
+                    "file_hash": file_hash
                 })
                 print(f"Uploaded chunk from {source} with ID {id}")
             except Exception as e:
                 print(f"[ERROR] Failed to upload chunk from {source}: {e}")
+
 
 def process_all_files(folder=".github/artifacts"):
     print(f"[INFO] Scanning folder: {folder}")
@@ -82,8 +104,10 @@ def process_all_files(folder=".github/artifacts"):
         for file in files:
             path = os.path.join(root, file)
             print(f"Processing {path}...")
+            file_hash = compute_file_hash(path)
             text = extract_text_from_file(path)
-            chunk_and_upload(text, source=path)
+            chunk_and_upload(text, source=path, file_hash=file_hash)
+
 
 if __name__ == "__main__":
     process_all_files()
