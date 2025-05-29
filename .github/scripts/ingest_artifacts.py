@@ -74,7 +74,8 @@ def chunk_and_upload(text, source):
             except Exception as e:
                 print(f"[ERROR] Failed to upload chunk from {source}: {e}")
 
-def process_all_files(folder="artifacts"):
+def process_all_files(folder=".github/artifacts"):
+    print(f"[INFO] Scanning folder: {folder}")
     for root, _, files in os.walk(folder):
         for file in files:
             path = os.path.join(root, file)
