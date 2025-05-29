@@ -69,7 +69,7 @@ def chunk_and_upload(text, source):
                     "PK": "DOC#BaseOne", 
                     "SK": f"CHUNK#{id}",
                     "text": chunk,
-                    "embedding": embedding,
+                    "embedding": embedding_decimal,
                     "source": source
                 })
                 print(f"Uploaded chunk from {source} with ID {id}")
