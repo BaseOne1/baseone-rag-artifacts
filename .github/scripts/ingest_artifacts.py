@@ -7,6 +7,7 @@ import requests
 from docx import Document
 from pptx import Presentation
 from langchain.text_splitter import RecursiveCharacterTextSplitter
+from decimal import Decimal
 
 dynamodb = boto3.resource("dynamodb", region_name=os.environ["AWS_REGION"])
 table = dynamodb.Table("BaseOneRAG")
@@ -61,6 +62,7 @@ def chunk_and_upload(text, source):
     for chunk in chunks:
         embedding = embed_text(chunk)
         if embedding:
+            embedding_decimal = [Decimal(str(x)) for x in embedding]
             id = str(uuid.uuid4())
             try:
                 table.put_item(Item={
