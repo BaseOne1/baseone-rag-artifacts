@@ -1,455 +1,94 @@
-Matthew Spuffard Experience
-BaseOne. logo
-Founder & CEO | Data & Analytics, Project Controls
-Founder & CEO | Data & Analytics, Project Controls
-BaseOne. · Full-timeBaseOne. · Full-time
-Jul 2020 - Present · 4 yrs 11 mosJul 2020 to Present · 4 yrs 11 mos
-
-Founder of a consultancy that provides data & analytics, project controls, agile and technology services.
-
-Blending the most in-demand technologies, delivery frameworks, and advanced analytics with project controls expertise that spans the last two decades, we create business intelligence solutions and provide project management and controls consulting.
-
-We are currently working for several clients to simplify their project controls and reporting whist uniting organisational wide datasets to empower decision makers with the right information.
-Founder of a consultancy that provides data & analytics, project controls, agile and technology services. Blending the most in-demand technologies, delivery frameworks, and advanced analytics with project controls expertise that spans the last two decades, we create business intelligence solutions and provide project management and controls consulting. We are currently working for several clients to simplify their project controls and reporting whist uniting organisational wide datasets to empower decision makers with the right information.
-Skills: CEO · Microsoft Azure · UIUX · Microsoft Fabric · Business Strategy · Project Reporting · Stakeholder Engagement · Agile Project Management · Data Visualization · Reporting · Client Relations · Management · Project Controls · Office 365 Administration · Data Management · Business Management · Excel · Team Leadership · Power BI
-Skills: CEO · Microsoft Azure · UIUX · Microsoft Fabric · Business Strategy · Project Reporting · Stakeholder Engagement · Agile Project Management · Data Visualization · Reporting · Client Relations · Management · Project Controls · Office 365 Administration · Data Management · Business Management · Excel · Team Leadership · Power BI
-
-About BaseOne.pdfAbout BaseOne.pdf
-Find out more about Baseone, and how we can help you on your data journey.Find out more about Baseone, and how we can help you on your data journey.
-See my demo work created in Power BISee my demo work created in Power BI
-BACB plc logo
-Analytics Consultant
-Analytics Consultant
-BACB plc · ContractBACB plc · Contract
-Jul 2024 - Present · 11 mosJul 2024 to Present · 11 mos
-London Area, United Kingdom · HybridLondon Area, United Kingdom · Hybrid
-Transforming Financial Credit Risk Analytics for a Leading Commercial Bank
-
-Partnering with a commercial bank to revolutionise Financial Credit Risk analytics by uniting T24 global banking data with internal reports. This initiative automates exposure tracking across the bank’s full portfolio, streamlining decision-making at every level.
-
-Through BaseOne, we’re serving as both an analytics advisor and delivery partner, deploying expert resources to:
- • Deliver multiple Power BI reports that simplify data insights.
- • Automate workflows using Power Automate flows.
- • Enhance report accessibility through SharePoint, Teams, and integrated apps.
-
-Seamlessly combining strategy and execution to unlock the full potential of the bank’s data ecosystem.
-Transforming Financial Credit Risk Analytics for a Leading Commercial Bank Partnering with a commercial bank to revolutionise Financial Credit Risk analytics by uniting T24 global banking data with internal reports. This initiative automates exposure tracking across the bank’s full portfolio, streamlining decision-making at every level. Through BaseOne, we’re serving as both an analytics advisor and delivery partner, deploying expert resources to: • Deliver multiple Power BI reports that simplify data insights. • Automate workflows using Power Automate flows. • Enhance report accessibility through SharePoint, Teams, and integrated apps. Seamlessly combining strategy and execution to unlock the full potential of the bank’s data ecosystem.
-Skills: Microsoft Power BI · Power BI · Data platform · Microsoft Power Platform
-Skills: Microsoft Power BI · Power BI · Data platform · Microsoft Power Platform
-Rolls-Royce SMR logo
-Rolls-Royce SMR
-Rolls-Royce SMR
-1 yr 8 mos1 yr 8 mos
-RemoteRemote
-Data Strategy Consultant
-Data Strategy Consultant
-Part-timePart-time
-Apr 2024 - Nov 2024 · 8 mosApr 2024 to Nov 2024 · 8 mos
-London Area, United KingdomLondon Area, United Kingdom
-Continuing to support with data strategy, power bi development and Microsoft Fabric as required to support the development of a Digital, Data-Driven PMO.
-Continuing to support with data strategy, power bi development and Microsoft Fabric as required to support the development of a Digital, Data-Driven PMO.
-Interim Head of Data & Reporting (PMO)
-Interim Head of Data & Reporting (PMO)
-ContractContract
-Apr 2023 - Apr 2024 · 1 yr 1 moApr 2023 to Apr 2024 · 1 yr 1 mo
-United KingdomUnited Kingdom
-Working with the PMO to deliver a data transformation initiative to deliver an integrated PMO of the future for a government funded PLC backed nuclear start up.
-Providing support and consultancy across PMO functions to enable automated reporting utilising best practises to integrate applications via API, architecting and developing a data warehouse based on a medallion architecture resulting in a self-service BI reporting platform using Microsoft Fabric.
-Working with the PMO to deliver a data transformation initiative to deliver an integrated PMO of the future for a government funded PLC backed nuclear start up. Providing support and consultancy across PMO functions to enable automated reporting utilising best practises to integrate applications via API, architecting and developing a data warehouse based on a medallion architecture resulting in a self-service BI reporting platform using Microsoft Fabric.
-Skills: Azure DevOps Services · UIUX · Microsoft Fabric · Primavera P6 · Project Reporting · Stakeholder Engagement · Agile Project Management · Data Visualization · Reporting · Client Relations · Management · Data Warehouse Architecture · Project Controls · Requirements Gathering · Project Management · Data Management · Excel · Microsoft Project · Team Leadership · Power BI
-Skills: Azure DevOps Services · UIUX · Microsoft Fabric · Primavera P6 · Project Reporting · Stakeholder Engagement · Agile Project Management · Data Visualization · Reporting · Client Relations · Management · Data Warehouse Architecture · Project Controls · Requirements Gathering · Project Management · Data Management · Excel · Microsoft Project · Team Leadership · Power BI
-Exyte logo
-Power BI Consultant
-Power BI Consultant
-Exyte · Part-timeExyte · Part-time
-Sep 2023 - May 2024 · 9 mosSep 2023 to May 2024 · 9 mos
-Remote · RemoteRemote · Remote
-Annalect logo
-Power BI Lead Developer
-Power BI Lead Developer
-Annalect · ContractAnnalect · Contract
-Jun 2023 - Dec 2023 · 7 mosJun 2023 to Dec 2023 · 7 mos
-London Area, United Kingdom · RemoteLondon Area, United Kingdom · Remote
-Provided ad-hoc consulting support and BaseOne resources for Annalect (OMG) across UIUX focussed Power BI reporting for a number of their high profile clients, with the goal of delivering exceptional BI in terms of both looks and functionality for pitches, proposals and full deployments.
-Provided ad-hoc consulting support and BaseOne resources for Annalect (OMG) across UIUX focussed Power BI reporting for a number of their high profile clients, with the goal of delivering exceptional BI in terms of both looks and functionality for pitches, proposals and full deployments.
-Skills: UIUX · Stakeholder Engagement · Data Visualization · Reporting · Client Relations · Requirements Gathering · Data Management · Excel · Team Leadership · Power BI · Stakeholder Management
-Skills: UIUX · Stakeholder Engagement · Data Visualization · Reporting · Client Relations · Requirements Gathering · Data Management · Excel · Team Leadership · Power BI · Stakeholder Management
-AFRY logo
-Project Controls | Data Analytics Lead
-Project Controls | Data Analytics Lead
-AFRY · Part-timeAFRY · Part-time
-Nov 2022 - Oct 2023 · 1 yrNov 2022 to Oct 2023 · 1 yr
-Greater London, England, United Kingdom · RemoteGreater London, England, United Kingdom · Remote
-Project Controls Support.
-Provided planning consultancy and scheduling to help Afry configure P6 for resource demand scheduling across a number of projects in Europe.
-
-Business Intelligence.
-Utilised BaseOne's Primer BI framework to deliver accelerated Power BI Report development using Primavera P6 Data to provide insights across projects on resource demand, EVM and schedule progress.
-Project Controls Support. Provided planning consultancy and scheduling to help Afry configure P6 for resource demand scheduling across a number of projects in Europe. Business Intelligence. Utilised BaseOne's Primer BI framework to deliver accelerated Power BI Report development using Primavera P6 Data to provide insights across projects on resource demand, EVM and schedule progress.
-Skills: Stakeholder Workshops · UIUX · Primavera P6 · Project Reporting · Stakeholder Engagement · Data Visualization · Reporting · Client Relations · Management · Project Controls · Data Management · Excel · Team Leadership · Power BI
-Skills: Stakeholder Workshops · UIUX · Primavera P6 · Project Reporting · Stakeholder Engagement · Data Visualization · Reporting · Client Relations · Management · Project Controls · Data Management · Excel · Team Leadership · Power BI
-Eiffage Kier Ferrovial BAM (EKFB) logo
-Business Intelligence | Project Controls (HS2)
-Business Intelligence | Project Controls (HS2)
-Eiffage Kier Ferrovial BAM · ContractEiffage Kier Ferrovial BAM · Contract
-Mar 2022 - Dec 2022 · 10 mosMar 2022 to Dec 2022 · 10 mos
-RemoteRemote
-Utilised the Oracle Cloud API to extract Primavera P6 data and deliver advanced analytics and automated reporting for a team of over 25 project planners, using Power BI to enable smarter, automated reporting for Project Controls on the HS2 rail project.
-Utilised the Oracle Cloud API to extract Primavera P6 data and deliver advanced analytics and automated reporting for a team of over 25 project planners, using Power BI to enable smarter, automated reporting for Project Controls on the HS2 rail project.
-Skills: REST APIs · UIUX · Primavera P6 · Project Reporting · Stakeholder Engagement · Data Visualization · Reporting · Client Relations · Oracle Cloud · Project Controls · Requirements Gathering · Data Management · Excel · Power BI
-Skills: REST APIs · UIUX · Primavera P6 · Project Reporting · Stakeholder Engagement · Data Visualization · Reporting · Client Relations · Oracle Cloud · Project Controls · Requirements Gathering · Data Management · Excel · Power BI
-National Grid logo
-Lead Power BI Developer
-Lead Power BI Developer
-National Grid · ContractNational Grid · Contract
-Jan 2022 - Sep 2022 · 9 mosJan 2022 to Sep 2022 · 9 mos
-RemoteRemote
-Hired as a specialist consultant by National Grid to redevelop six extraordinarily complex reports from Tableau to Power BI to determine if Power BI could replicate the complex functionality utilised in their current reporting. The goal was to determine if National Grid should migrate over 100 reports to Power BI and the MSBI stack.
-
-Reports included complex mapping tile sets, solutions that requires complex DAX statements, parameters, power automate visuals, python and lots of creative thinking.
-All report were successfully completed, many with improvements, and the decision was made to complete the full migration, and therefore continued to help lead and manage the migration.
-Hired as a specialist consultant by National Grid to redevelop six extraordinarily complex reports from Tableau to Power BI to determine if Power BI could replicate the complex functionality utilised in their current reporting. The goal was to determine if National Grid should migrate over 100 reports to Power BI and the MSBI stack. Reports included complex mapping tile sets, solutions that requires complex DAX statements, parameters, power automate visuals, python and lots of creative thinking. All report were successfully completed, many with improvements, and the decision was made to complete the full migration, and therefore continued to help lead and manage the migration.
-Skills: Data Warehousing · UIUX · Stakeholder Engagement · Agile Project Management · Data Visualization · Reporting · Tableau · Client Relations · Management · Team Management · Requirements Gathering · Data Management · Business Intelligence (BI) · Excel · Team Leadership · Power BI
-Skills: Data Warehousing · UIUX · Stakeholder Engagement · Agile Project Management · Data Visualization · Reporting · Tableau · Client Relations · Management · Team Management · Requirements Gathering · Data Management · Business Intelligence (BI) · Excel · Team Leadership · Power BI
-ENGIE logo
-Lead Business Intelligence Developer | Project Controls - BaseOne
-Lead Business Intelligence Developer | Project Controls - BaseOne
-ENGIE · ContractENGIE · Contract
-Mar 2021 - Apr 2022 · 1 yr 2 mosMar 2021 to Apr 2022 · 1 yr 2 mos
-United KingdomUnited Kingdom
-Working with the HPC project controls teams to develop a data warehouse and integrate advanced Business Intelligence systems into daily reporting streams, replacing legacy siloed excel reports, using data to resolve business problems and create actionable insights via data analysis, whilst focusing on workflow automations to remove BAU processes and empower teams.
-Working with the HPC project controls teams to develop a data warehouse and integrate advanced Business Intelligence systems into daily reporting streams, replacing legacy siloed excel reports, using data to resolve business problems and create actionable insights via data analysis, whilst focusing on workflow automations to remove BAU processes and empower teams.
-Skills: UIUX · Primavera P6 · Project Reporting · Stakeholder Engagement · Agile Project Management · Data Visualization · Reporting · Client Relations · Management · Project Controls · Requirements Gathering · Data Management · Business Intelligence (BI) · Excel · Power BI
-Skills: UIUX · Primavera P6 · Project Reporting · Stakeholder Engagement · Agile Project Management · Data Visualization · Reporting · Client Relations · Management · Project Controls · Requirements Gathering · Data Management · Business Intelligence (BI) · Excel · Power BI
-bp logo
-bp
-bp
-Contract · 5 yrs 9 mosContract · 5 yrs 9 mos
-Senior Subsurface Portfolio Planner, BI Developer, Team Scrum Master
-Senior Subsurface Portfolio Planner, BI Developer, Team Scrum Master
-Jan 2016 - Jul 2020 · 4 yrs 7 mosJan 2016 to Jul 2020 · 4 yrs 7 mos
-O&G Reservoir Development - BP Business Centre, Sunbury, LondonO&G Reservoir Development - BP Business Centre, Sunbury, London
-Assisted in the development of the project controls system, standards, processes & reporting for BP’s reservoir development function’s global project portfolio.
-Worked with management teams and VPs to manage a portfolio of 33 live programs and 8Q resource demand plans for over 1800 employees using Primavera P6.
-I developed a project controls ERP & BI reporting platform using the Microsoft Power BI used by executives to manage BP's global project portfolio.
-Assisted in the development of the project controls system, standards, processes & reporting for BP’s reservoir development function’s global project portfolio. Worked with management teams and VPs to manage a portfolio of 33 live programs and 8Q resource demand plans for over 1800 employees using Primavera P6. I developed a project controls ERP & BI reporting platform using the Microsoft Power BI used by executives to manage BP's global project portfolio.
-Skills: Senior Stakeholder Management · Azure DevOps Services · UIUX · Primavera P6 · Stakeholder Engagement · Agile Project Management · Data Visualization · Reporting · Client Relations · Management · Project Controls · Data Management · Excel · Microsoft Project · Team Leadership · Project Management Office (PMO) · Power BI
-Skills: Senior Stakeholder Management · Azure DevOps Services · UIUX · Primavera P6 · Stakeholder Engagement · Agile Project Management · Data Visualization · Reporting · Client Relations · Management · Project Controls · Data Management · Excel · Microsoft Project · Team Leadership · Project Management Office (PMO) · Power BI
-Senior Project Planner, BI Developer
-Senior Project Planner, BI Developer
-Nov 2014 - Jan 2016 · 1 yr 3 mosNov 2014 to Jan 2016 · 1 yr 3 mos
-O&G Exploration - BP Business Centre, Sunbury, LondonO&G Exploration - BP Business Centre, Sunbury, London
-I was engaged by BP's Exploration planning team to provide planning support and to create Power BI dashboards, and excel VBA tools used to estimate plan & manage the function’s global project portfolio.
-I was engaged by BP's Exploration planning team to provide planning support and to create Power BI dashboards, and excel VBA tools used to estimate plan & manage the function’s global project portfolio.
-Skills: UIUX · Stakeholder Engagement · Data Visualization · Reporting · Client Relations · Management · Project Controls · Data Management · Excel · Team Leadership
-Skills: UIUX · Stakeholder Engagement · Data Visualization · Reporting · Client Relations · Management · Project Controls · Data Management · Excel · Team Leadership
-Fluor Corporation logo
-Senior MAC Interface Planner
-Senior MAC Interface Planner
-Fluor Corporation · ContractFluor Corporation · Contract
-Oct 2013 - Nov 2014 · 1 yr 2 mosOct 2013 to Nov 2014 · 1 yr 2 mos
-FarnboroughFarnborough
-Planned and scheduled the design and delivery of the automation systems including 134 RIEs (remote instrument enclosures), plus PAS panels to Tengiz over 8 years via seasonal shipping windows. I interfaced and managed MAC (Main Automation Contractor) schedules between client and vendors - Fluor, Mustang, GE & Honeywell.
-Planned and scheduled the design and delivery of the automation systems including 134 RIEs (remote instrument enclosures), plus PAS panels to Tengiz over 8 years via seasonal shipping windows. I interfaced and managed MAC (Main Automation Contractor) schedules between client and vendors - Fluor, Mustang, GE & Honeywell.
-Skills: Primavera P6 · Project Reporting · Stakeholder Engagement · Data Visualization · Reporting · Client Relations · Management · Project Controls · Data Management · Business Intelligence (BI) · Excel
-Skills: Primavera P6 · Project Reporting · Stakeholder Engagement · Data Visualization · Reporting · Client Relations · Management · Project Controls · Data Management · Business Intelligence (BI) · Excel
-Valero logo
-Senior Project Planner
-Senior Project Planner
-Valero Energy Corporation · ContractValero Energy Corporation · Contract
-Apr 2013 - Oct 2013 · 7 mosApr 2013 to Oct 2013 · 7 mos
-Pembroke Dock, WalesPembroke Dock, Wales
-Created detailed schedules for a major site shutdown. Working alongside engineering, I developed resource-loaded Primavera plans and ran planning meetings with teams to define the activity and manage vendors.
-Created detailed schedules for a major site shutdown. Working alongside engineering, I developed resource-loaded Primavera plans and ran planning meetings with teams to define the activity and manage vendors.
-Skills: Primavera P6 · Project Reporting · Stakeholder Engagement · Data Visualization · Reporting · Client Relations · Project Controls · Data Management · Business Intelligence (BI) · Excel · Team Leadership
-Skills: Primavera P6 · Project Reporting · Stakeholder Engagement · Data Visualization · Reporting · Client Relations · Project Controls · Data Management · Business Intelligence (BI) · Excel · Team Leadership
-KBR, Inc. logo
-Project Planner
-Project Planner
-KBR, Inc. · ContractKBR, Inc. · Contract
-Apr 2012 - Apr 2013 · 1 yr 1 moApr 2012 to Apr 2013 · 1 yr 1 mo
-LeatherheadLeatherhead
-Engaged to create and manage the schedule for the detailed design phases of BP’s Shah Deniz II and Azeri Subsea Piping in the Caspian Sea and manage weekly reporting.
-I planned the design scope for Process Engineering, Materials Engineering, and HVAC disciplines for both Onshore (brownfield) and Offshore (greenfield) work.
-Engaged to create and manage the schedule for the detailed design phases of BP’s Shah Deniz II and Azeri Subsea Piping in the Caspian Sea and manage weekly reporting. I planned the design scope for Process Engineering, Materials Engineering, and HVAC disciplines for both Onshore (brownfield) and Offshore (greenfield) work.
-Skills: Primavera P6 · Project Reporting · Stakeholder Engagement · Data Visualization · Reporting · Client Relations · Project Controls · Data Management · Excel
-Skills: Primavera P6 · Project Reporting · Stakeholder Engagement · Data Visualization · Reporting · Client Relations · Project Controls · Data Management · Excel
-Ledwood Mechanical Engineering Ltd logo
-Lead Planner
-Lead Planner
-Ledwood Mechanical Engineering Ltd · ContractLedwood Mechanical Engineering Ltd · Contract
-Aug 2011 - Apr 2012 · 9 mosAug 2011 to Apr 2012 · 9 mos
-Pembroke Dock Head OfficePembroke Dock Head Office
-Created Primavera resource loaded schedules for the fabrication and installation of a VDU, installed during a turnaround/shutdown on the Valero petroleum refinery. The project included the design, fabrication, assembly, and installation of the unit.
-Created Primavera resource loaded schedules for the fabrication and installation of a VDU, installed during a turnaround/shutdown on the Valero petroleum refinery. The project included the design, fabrication, assembly, and installation of the unit.
-Skills: Primavera P6 · Project Reporting · Stakeholder Engagement · Data Visualization · Reporting · Client Relations · Project Controls · Data Management · Excel
-Skills: Primavera P6 · Project Reporting · Stakeholder Engagement · Data Visualization · Reporting · Client Relations · Project Controls · Data Management · Excel
-Somi Impianti Demolizioni  logo
-Planning Manager
-Planning Manager
-Somi Impianti Demolizioni · ContractSomi Impianti Demolizioni · Contract
-Jun 2010 - Aug 2011 · 1 yr 3 mosJun 2010 to Aug 2011 · 1 yr 3 mos
-Pembrokeshire, Wales, United KingdomPembrokeshire, Wales, United Kingdom
-Engaged to lead the planning team during the construction of Europe’s largest CCGT Power Station, overseeing planning, execution, reporting and was required to create an integrated level 4 project schedule for piping, mechanical equipment, procurement, fabrication, and commissioning as well as cooling water systems and a subcontractor interface for insulation and scaffold.
-Engaged to lead the planning team during the construction of Europe’s largest CCGT Power Station, overseeing planning, execution, reporting and was required to create an integrated level 4 project schedule for piping, mechanical equipment, procurement, fabrication, and commissioning as well as cooling water systems and a subcontractor interface for insulation and scaffold.
-Skills: Senior Stakeholder Management · Primavera P6 · Project Reporting · Stakeholder Engagement · Data Visualization · Reporting · Oracle Database · Client Relations · Team Management · Project Controls · Data Management · Excel · Team Leadership
-Skills: Senior Stakeholder Management · Primavera P6 · Project Reporting · Stakeholder Engagement · Data Visualization · Reporting · Oracle Database · Client Relations · Team Management · Project Controls · Data Management · Excel · Team Leadership
-Alstom logo
-Project Planner | CMS Reporting Engineer
-Project Planner | CMS Reporting Engineer
-Alstom · ContractAlstom · Contract
-Aug 2009 - Jun 2010 · 11 mosAug 2009 to Jun 2010 · 11 mos
-Staythorpe, NottinghamStaythorpe, Nottingham
-Project planner responsible for maintaining Alstom’s site schedule and interfacing sub-contractors for the construction of a 1600MW CCGT Power Station Nottinghamshire.
-I coordinated with sub-contractors, engineering departments, and planning managers for updates on quantities and resource to produce weekly and monthly site reports in Primavera P6 and Alstom’s Construction Monitoring System (CMS).
-Project planner responsible for maintaining Alstom’s site schedule and interfacing sub-contractors for the construction of a 1600MW CCGT Power Station Nottinghamshire. I coordinated with sub-contractors, engineering departments, and planning managers for updates on quantities and resource to produce weekly and monthly site reports in Primavera P6 and Alstom’s Construction Monitoring System (CMS).
-Skills: Primavera P6 · Project Reporting · Stakeholder Engagement · Microsoft Excel · Data Visualization · Reporting · Client Relations · Management · Project Controls · Data Management · Excel
-Skills: Primavera P6 · Project Reporting · Stakeholder Engagement · Microsoft Excel · Data Visualization · Reporting · Client Relations · Management · Project Controls · Data Management · Excel
-Planning Manager
-Planning Manager
-Planning Manager
-Ailsbury Engineering · ContractAilsbury Engineering · Contract
-May 2007 - Aug 2009 · 2 yrs 4 mosMay 2007 to Aug 2009 · 2 yrs 4 mos
-Gulf Refinery - Milford Haven, Pembrokeshire · On-siteGulf Refinery - Milford Haven, Pembrokeshire · On-site
-Engaged by the company directors to lead planning efforts for three dismantling projects in Europe. Each site was to be dismantled, packaged, and transported to buyers in Asia for reconstruction. As a lead planner, I was responsible for creating activity, cost, and resource loaded P6 schedules and reported on Baseline variances, EVM, CPI, SPI, cost, resource demand, and assets shipped. All schedules and WBS were created using original site ISOs and P&IDs and included logistics scheduling and cranage planning for exceptional loads.
-Projects
-• Petroplus Oil Refinery | Byco Oil
-• Basell Polypropylene Plant | Lyondell Basell
-• Kemira Fertiliser Plant | Lyondell Basell
-Engaged by the company directors to lead planning efforts for three dismantling projects in Europe. Each site was to be dismantled, packaged, and transported to buyers in Asia for reconstruction. As a lead planner, I was responsible for creating activity, cost, and resource loaded P6 schedules and reported on Baseline variances, EVM, CPI, SPI, cost, resource demand, and assets shipped. All schedules and WBS were created using original site ISOs and P&IDs and included logistics scheduling and cranage planning for exceptional loads. Projects • Petroplus Oil Refinery | Byco Oil • Basell Polypropylene Plant | Lyondell Basell • Kemira Fertiliser Plant | Lyondell Basell 
-Skills: Project Planning · Primavera P6 · Project Reporting · Stakeholder Engagement · Data Visualization · Reporting · Client Relations · Management · Team Management · Project Controls · Data Management · Excel · Team Leadership
-Skills: Project Planning · Primavera P6 · Project Reporting · Stakeholder Engagement · Data Visualization · Reporting · Client Relations · Management · Team Management · Project Controls · Data Management · Excel · Team Leadership
-The Shaw Group (Acquired by CB&I) logo
-Project Scheduler
-Project Scheduler
-The Shaw Group (Acquired by CB&I) · ContractThe Shaw Group (Acquired by CB&I) · Contract
-Jan 2006 - May 2007 · 1 yr 5 mosJan 2006 to May 2007 · 1 yr 5 mos
-South Hook LNG Terminal, WalesSouth Hook LNG Terminal, Wales
-Successfully managed and maintained the resource-loaded construction schedules for the South Hook LNG Terminal in Pembrokeshire Wales. Schedules were baselined and weekly reports included two, four & six-week forecasts. Progress S-curves, resource histograms, critical path analysis, resource leveling, EVM, CPI, SPI, and Schedule Variances were presented at weekly client meetings.
-Successfully managed and maintained the resource-loaded construction schedules for the South Hook LNG Terminal in Pembrokeshire Wales. Schedules were baselined and weekly reports included two, four & six-week forecasts. Progress S-curves, resource histograms, critical path analysis, resource leveling, EVM, CPI, SPI, and Schedule Variances were presented at weekly client meetings.
-Skills: Primavera P3 · Project Reporting · Stakeholder Engagement · Data Visualization · Project Control · Reporting · Client Relations · Data Management · Excel
-Skills: Primavera P3 · Project Reporting · Stakeholder Engagement · Data Visualization · Project Control · Reporting · Client Relations · Data Management · Excel
-Chevron logo
-Information Technology Technician
-Information Technology Technician
-Chevron · ContractChevron · Contract
-Oct 2004 - Jan 2006 · 1 yr 4 mosOct 2004 to Jan 2006 · 1 yr 4 mos
-Pembroke Refinery · On-sitePembroke Refinery · On-site
-Engaged as part of an onsite IT support team on the Pembroke Refinery, my roles were to manage the various departments’ IT systems and provide user support. I provided administrative support for the planning department’s Primavera P3e server integration and ongoing software support.
-Engaged as part of an onsite IT support team on the Pembroke Refinery, my roles were to manage the various departments’ IT systems and provide user support. I provided administrative support for the planning department’s Primavera P3e server integration and ongoing software support.
-Skills: Primavera P3 · Databases · IT Service Management · Stakeholder Engagement · Technical Support · Oracle Database · ExcelExperience
-BaseOne. logo
-Founder & CEO | Data & Analytics, Project Controls
-Founder & CEO | Data & Analytics, Project Controls
-BaseOne. · Full-timeBaseOne. · Full-time
-Jul 2020 - Present · 4 yrs 11 mosJul 2020 to Present · 4 yrs 11 mos
-United KingdomUnited Kingdom
-Founder of a consultancy that provides data & analytics, project controls, agile and technology services.
-
-Blending the most in-demand technologies, delivery frameworks, and advanced analytics with project controls expertise that spans the last two decades, we create business intelligence solutions and provide project management and controls consulting.
-
-We are currently working for several clients to simplify their project controls and reporting whist uniting organisational wide datasets to empower decision makers with the right information.
-Founder of a consultancy that provides data & analytics, project controls, agile and technology services. Blending the most in-demand technologies, delivery frameworks, and advanced analytics with project controls expertise that spans the last two decades, we create business intelligence solutions and provide project management and controls consulting. We are currently working for several clients to simplify their project controls and reporting whist uniting organisational wide datasets to empower decision makers with the right information.
-Skills: CEO · Microsoft Azure · UIUX · Microsoft Fabric · Business Strategy · Project Reporting · Stakeholder Engagement · Agile Project Management · Data Visualization · Reporting · Client Relations · Management · Project Controls · Office 365 Administration · Data Management · Business Management · Excel · Team Leadership · Power BI
-Skills: CEO · Microsoft Azure · UIUX · Microsoft Fabric · Business Strategy · Project Reporting · Stakeholder Engagement · Agile Project Management · Data Visualization · Reporting · Client Relations · Management · Project Controls · Office 365 Administration · Data Management · Business Management · Excel · Team Leadership · Power BI
-
-About BaseOne.pdfAbout BaseOne.pdf
-Find out more about Baseone, and how we can help you on your data journey.Find out more about Baseone, and how we can help you on your data journey.
-
-Our Demos.pdfOur Demos.pdf
-See my demo work created in Power BISee my demo work created in Power BI
-BACB plc logo
-Analytics Consultant
-Analytics Consultant
-BACB plc · ContractBACB plc · Contract
-Jul 2024 - Present · 11 mosJul 2024 to Present · 11 mos
-London Area, United Kingdom · HybridLondon Area, United Kingdom · Hybrid
-Transforming Financial Credit Risk Analytics for a Leading Commercial Bank
-
-Partnering with a commercial bank to revolutionise Financial Credit Risk analytics by uniting T24 global banking data with internal reports. This initiative automates exposure tracking across the bank’s full portfolio, streamlining decision-making at every level.
-
-Through BaseOne, we’re serving as both an analytics advisor and delivery partner, deploying expert resources to:
- • Deliver multiple Power BI reports that simplify data insights.
- • Automate workflows using Power Automate flows.
- • Enhance report accessibility through SharePoint, Teams, and integrated apps.
-
-Seamlessly combining strategy and execution to unlock the full potential of the bank’s data ecosystem.
-Transforming Financial Credit Risk Analytics for a Leading Commercial Bank Partnering with a commercial bank to revolutionise Financial Credit Risk analytics by uniting T24 global banking data with internal reports. This initiative automates exposure tracking across the bank’s full portfolio, streamlining decision-making at every level. Through BaseOne, we’re serving as both an analytics advisor and delivery partner, deploying expert resources to: • Deliver multiple Power BI reports that simplify data insights. • Automate workflows using Power Automate flows. • Enhance report accessibility through SharePoint, Teams, and integrated apps. Seamlessly combining strategy and execution to unlock the full potential of the bank’s data ecosystem.
-Skills: Microsoft Power BI · Power BI · Data platform · Microsoft Power Platform
-Skills: Microsoft Power BI · Power BI · Data platform · Microsoft Power Platform
-Rolls-Royce SMR logo
-Rolls-Royce SMR
-Rolls-Royce SMR
-1 yr 8 mos1 yr 8 mos
-RemoteRemote
-Data Strategy Consultant
-Data Strategy Consultant
-Part-timePart-time
-Apr 2024 - Nov 2024 · 8 mosApr 2024 to Nov 2024 · 8 mos
-London Area, United KingdomLondon Area, United Kingdom
-Continuing to support with data strategy, power bi development and Microsoft Fabric as required to support the development of a Digital, Data-Driven PMO.
-Continuing to support with data strategy, power bi development and Microsoft Fabric as required to support the development of a Digital, Data-Driven PMO.
-Interim Head of Data & Reporting (PMO)
-Interim Head of Data & Reporting (PMO)
-ContractContract
-Apr 2023 - Apr 2024 · 1 yr 1 moApr 2023 to Apr 2024 · 1 yr 1 mo
-United KingdomUnited Kingdom
-Working with the PMO to deliver a data transformation initiative to deliver an integrated PMO of the future for a government funded PLC backed nuclear start up.
-Providing support and consultancy across PMO functions to enable automated reporting utilising best practises to integrate applications via API, architecting and developing a data warehouse based on a medallion architecture resulting in a self-service BI reporting platform using Microsoft Fabric.
-Working with the PMO to deliver a data transformation initiative to deliver an integrated PMO of the future for a government funded PLC backed nuclear start up. Providing support and consultancy across PMO functions to enable automated reporting utilising best practises to integrate applications via API, architecting and developing a data warehouse based on a medallion architecture resulting in a self-service BI reporting platform using Microsoft Fabric.
-Skills: Azure DevOps Services · UIUX · Microsoft Fabric · Primavera P6 · Project Reporting · Stakeholder Engagement · Agile Project Management · Data Visualization · Reporting · Client Relations · Management · Data Warehouse Architecture · Project Controls · Requirements Gathering · Project Management · Data Management · Excel · Microsoft Project · Team Leadership · Power BI
-Skills: Azure DevOps Services · UIUX · Microsoft Fabric · Primavera P6 · Project Reporting · Stakeholder Engagement · Agile Project Management · Data Visualization · Reporting · Client Relations · Management · Data Warehouse Architecture · Project Controls · Requirements Gathering · Project Management · Data Management · Excel · Microsoft Project · Team Leadership · Power BI
-Exyte logo
-Power BI Consultant
-Power BI Consultant
-Exyte · Part-timeExyte · Part-time
-Sep 2023 - May 2024 · 9 mosSep 2023 to May 2024 · 9 mos
-Remote · RemoteRemote · Remote
-Annalect logo
-Power BI Lead Developer
-Power BI Lead Developer
-Annalect · ContractAnnalect · Contract
-Jun 2023 - Dec 2023 · 7 mosJun 2023 to Dec 2023 · 7 mos
-London Area, United Kingdom · RemoteLondon Area, United Kingdom · Remote
-Provided ad-hoc consulting support and BaseOne resources for Annalect (OMG) across UIUX focussed Power BI reporting for a number of their high profile clients, with the goal of delivering exceptional BI in terms of both looks and functionality for pitches, proposals and full deployments.
-Provided ad-hoc consulting support and BaseOne resources for Annalect (OMG) across UIUX focussed Power BI reporting for a number of their high profile clients, with the goal of delivering exceptional BI in terms of both looks and functionality for pitches, proposals and full deployments.
-Skills: UIUX · Stakeholder Engagement · Data Visualization · Reporting · Client Relations · Requirements Gathering · Data Management · Excel · Team Leadership · Power BI · Stakeholder Management
-Skills: UIUX · Stakeholder Engagement · Data Visualization · Reporting · Client Relations · Requirements Gathering · Data Management · Excel · Team Leadership · Power BI · Stakeholder Management
-AFRY logo
-Project Controls | Data Analytics Lead
-Project Controls | Data Analytics Lead
-AFRY · Part-timeAFRY · Part-time
-Nov 2022 - Oct 2023 · 1 yrNov 2022 to Oct 2023 · 1 yr
-Greater London, England, United Kingdom · RemoteGreater London, England, United Kingdom · Remote
-Project Controls Support.
-Provided planning consultancy and scheduling to help Afry configure P6 for resource demand scheduling across a number of projects in Europe.
-
-Business Intelligence.
-Utilised BaseOne's Primer BI framework to deliver accelerated Power BI Report development using Primavera P6 Data to provide insights across projects on resource demand, EVM and schedule progress.
-Project Controls Support. Provided planning consultancy and scheduling to help Afry configure P6 for resource demand scheduling across a number of projects in Europe. Business Intelligence. Utilised BaseOne's Primer BI framework to deliver accelerated Power BI Report development using Primavera P6 Data to provide insights across projects on resource demand, EVM and schedule progress.
-Skills: Stakeholder Workshops · UIUX · Primavera P6 · Project Reporting · Stakeholder Engagement · Data Visualization · Reporting · Client Relations · Management · Project Controls · Data Management · Excel · Team Leadership · Power BI
-Skills: Stakeholder Workshops · UIUX · Primavera P6 · Project Reporting · Stakeholder Engagement · Data Visualization · Reporting · Client Relations · Management · Project Controls · Data Management · Excel · Team Leadership · Power BI
-Eiffage Kier Ferrovial BAM (EKFB) logo
-Business Intelligence | Project Controls (HS2)
-Business Intelligence | Project Controls (HS2)
-Eiffage Kier Ferrovial BAM · ContractEiffage Kier Ferrovial BAM · Contract
-Mar 2022 - Dec 2022 · 10 mosMar 2022 to Dec 2022 · 10 mos
-RemoteRemote
-Utilised the Oracle Cloud API to extract Primavera P6 data and deliver advanced analytics and automated reporting for a team of over 25 project planners, using Power BI to enable smarter, automated reporting for Project Controls on the HS2 rail project.
-Utilised the Oracle Cloud API to extract Primavera P6 data and deliver advanced analytics and automated reporting for a team of over 25 project planners, using Power BI to enable smarter, automated reporting for Project Controls on the HS2 rail project.
-Skills: REST APIs · UIUX · Primavera P6 · Project Reporting · Stakeholder Engagement · Data Visualization · Reporting · Client Relations · Oracle Cloud · Project Controls · Requirements Gathering · Data Management · Excel · Power BI
-Skills: REST APIs · UIUX · Primavera P6 · Project Reporting · Stakeholder Engagement · Data Visualization · Reporting · Client Relations · Oracle Cloud · Project Controls · Requirements Gathering · Data Management · Excel · Power BI
-National Grid logo
-Lead Power BI Developer
-Lead Power BI Developer
-National Grid · ContractNational Grid · Contract
-Jan 2022 - Sep 2022 · 9 mosJan 2022 to Sep 2022 · 9 mos
-RemoteRemote
-Hired as a specialist consultant by National Grid to redevelop six extraordinarily complex reports from Tableau to Power BI to determine if Power BI could replicate the complex functionality utilised in their current reporting. The goal was to determine if National Grid should migrate over 100 reports to Power BI and the MSBI stack.
-
-Reports included complex mapping tile sets, solutions that requires complex DAX statements, parameters, power automate visuals, python and lots of creative thinking.
-All report were successfully completed, many with improvements, and the decision was made to complete the full migration, and therefore continued to help lead and manage the migration.
-Hired as a specialist consultant by National Grid to redevelop six extraordinarily complex reports from Tableau to Power BI to determine if Power BI could replicate the complex functionality utilised in their current reporting. The goal was to determine if National Grid should migrate over 100 reports to Power BI and the MSBI stack. Reports included complex mapping tile sets, solutions that requires complex DAX statements, parameters, power automate visuals, python and lots of creative thinking. All report were successfully completed, many with improvements, and the decision was made to complete the full migration, and therefore continued to help lead and manage the migration.
-Skills: Data Warehousing · UIUX · Stakeholder Engagement · Agile Project Management · Data Visualization · Reporting · Tableau · Client Relations · Management · Team Management · Requirements Gathering · Data Management · Business Intelligence (BI) · Excel · Team Leadership · Power BI
-Skills: Data Warehousing · UIUX · Stakeholder Engagement · Agile Project Management · Data Visualization · Reporting · Tableau · Client Relations · Management · Team Management · Requirements Gathering · Data Management · Business Intelligence (BI) · Excel · Team Leadership · Power BI
-ENGIE logo
-Lead Business Intelligence Developer | Project Controls - BaseOne
-Lead Business Intelligence Developer | Project Controls - BaseOne
-ENGIE · ContractENGIE · Contract
-Mar 2021 - Apr 2022 · 1 yr 2 mosMar 2021 to Apr 2022 · 1 yr 2 mos
-United KingdomUnited Kingdom
-Working with the HPC project controls teams to develop a data warehouse and integrate advanced Business Intelligence systems into daily reporting streams, replacing legacy siloed excel reports, using data to resolve business problems and create actionable insights via data analysis, whilst focusing on workflow automations to remove BAU processes and empower teams.
-Working with the HPC project controls teams to develop a data warehouse and integrate advanced Business Intelligence systems into daily reporting streams, replacing legacy siloed excel reports, using data to resolve business problems and create actionable insights via data analysis, whilst focusing on workflow automations to remove BAU processes and empower teams.
-Skills: UIUX · Primavera P6 · Project Reporting · Stakeholder Engagement · Agile Project Management · Data Visualization · Reporting · Client Relations · Management · Project Controls · Requirements Gathering · Data Management · Business Intelligence (BI) · Excel · Power BI
-Skills: UIUX · Primavera P6 · Project Reporting · Stakeholder Engagement · Agile Project Management · Data Visualization · Reporting · Client Relations · Management · Project Controls · Requirements Gathering · Data Management · Business Intelligence (BI) · Excel · Power BI
-bp logo
-bp
-bp
-Contract · 5 yrs 9 mosContract · 5 yrs 9 mos
-Senior Subsurface Portfolio Planner, BI Developer, Team Scrum Master
-Senior Subsurface Portfolio Planner, BI Developer, Team Scrum Master
-Jan 2016 - Jul 2020 · 4 yrs 7 mosJan 2016 to Jul 2020 · 4 yrs 7 mos
-O&G Reservoir Development - BP Business Centre, Sunbury, LondonO&G Reservoir Development - BP Business Centre, Sunbury, London
-Assisted in the development of the project controls system, standards, processes & reporting for BP’s reservoir development function’s global project portfolio.
-Worked with management teams and VPs to manage a portfolio of 33 live programs and 8Q resource demand plans for over 1800 employees using Primavera P6.
-I developed a project controls ERP & BI reporting platform using the Microsoft Power BI used by executives to manage BP's global project portfolio.
-Assisted in the development of the project controls system, standards, processes & reporting for BP’s reservoir development function’s global project portfolio. Worked with management teams and VPs to manage a portfolio of 33 live programs and 8Q resource demand plans for over 1800 employees using Primavera P6. I developed a project controls ERP & BI reporting platform using the Microsoft Power BI used by executives to manage BP's global project portfolio.
-Skills: Senior Stakeholder Management · Azure DevOps Services · UIUX · Primavera P6 · Stakeholder Engagement · Agile Project Management · Data Visualization · Reporting · Client Relations · Management · Project Controls · Data Management · Excel · Microsoft Project · Team Leadership · Project Management Office (PMO) · Power BI
-Skills: Senior Stakeholder Management · Azure DevOps Services · UIUX · Primavera P6 · Stakeholder Engagement · Agile Project Management · Data Visualization · Reporting · Client Relations · Management · Project Controls · Data Management · Excel · Microsoft Project · Team Leadership · Project Management Office (PMO) · Power BI
-Senior Project Planner, BI Developer
-Senior Project Planner, BI Developer
-Nov 2014 - Jan 2016 · 1 yr 3 mosNov 2014 to Jan 2016 · 1 yr 3 mos
-O&G Exploration - BP Business Centre, Sunbury, LondonO&G Exploration - BP Business Centre, Sunbury, London
-I was engaged by BP's Exploration planning team to provide planning support and to create Power BI dashboards, and excel VBA tools used to estimate plan & manage the function’s global project portfolio.
-I was engaged by BP's Exploration planning team to provide planning support and to create Power BI dashboards, and excel VBA tools used to estimate plan & manage the function’s global project portfolio.
-Skills: UIUX · Stakeholder Engagement · Data Visualization · Reporting · Client Relations · Management · Project Controls · Data Management · Excel · Team Leadership
-Skills: UIUX · Stakeholder Engagement · Data Visualization · Reporting · Client Relations · Management · Project Controls · Data Management · Excel · Team Leadership
-Fluor Corporation logo
-Senior MAC Interface Planner
-Senior MAC Interface Planner
-Fluor Corporation · ContractFluor Corporation · Contract
-Oct 2013 - Nov 2014 · 1 yr 2 mosOct 2013 to Nov 2014 · 1 yr 2 mos
-FarnboroughFarnborough
-Planned and scheduled the design and delivery of the automation systems including 134 RIEs (remote instrument enclosures), plus PAS panels to Tengiz over 8 years via seasonal shipping windows. I interfaced and managed MAC (Main Automation Contractor) schedules between client and vendors - Fluor, Mustang, GE & Honeywell.
-Planned and scheduled the design and delivery of the automation systems including 134 RIEs (remote instrument enclosures), plus PAS panels to Tengiz over 8 years via seasonal shipping windows. I interfaced and managed MAC (Main Automation Contractor) schedules between client and vendors - Fluor, Mustang, GE & Honeywell.
-Skills: Primavera P6 · Project Reporting · Stakeholder Engagement · Data Visualization · Reporting · Client Relations · Management · Project Controls · Data Management · Business Intelligence (BI) · Excel
-Skills: Primavera P6 · Project Reporting · Stakeholder Engagement · Data Visualization · Reporting · Client Relations · Management · Project Controls · Data Management · Business Intelligence (BI) · Excel
-Valero logo
-Senior Project Planner
-Senior Project Planner
-Valero Energy Corporation · ContractValero Energy Corporation · Contract
-Apr 2013 - Oct 2013 · 7 mosApr 2013 to Oct 2013 · 7 mos
-Pembroke Dock, WalesPembroke Dock, Wales
-Created detailed schedules for a major site shutdown. Working alongside engineering, I developed resource-loaded Primavera plans and ran planning meetings with teams to define the activity and manage vendors.
-Created detailed schedules for a major site shutdown. Working alongside engineering, I developed resource-loaded Primavera plans and ran planning meetings with teams to define the activity and manage vendors.
-Skills: Primavera P6 · Project Reporting · Stakeholder Engagement · Data Visualization · Reporting · Client Relations · Project Controls · Data Management · Business Intelligence (BI) · Excel · Team Leadership
-Skills: Primavera P6 · Project Reporting · Stakeholder Engagement · Data Visualization · Reporting · Client Relations · Project Controls · Data Management · Business Intelligence (BI) · Excel · Team Leadership
-KBR, Inc. logo
-Project Planner
-Project Planner
-KBR, Inc. · ContractKBR, Inc. · Contract
-Apr 2012 - Apr 2013 · 1 yr 1 moApr 2012 to Apr 2013 · 1 yr 1 mo
-LeatherheadLeatherhead
-Engaged to create and manage the schedule for the detailed design phases of BP’s Shah Deniz II and Azeri Subsea Piping in the Caspian Sea and manage weekly reporting.
-I planned the design scope for Process Engineering, Materials Engineering, and HVAC disciplines for both Onshore (brownfield) and Offshore (greenfield) work.
-Engaged to create and manage the schedule for the detailed design phases of BP’s Shah Deniz II and Azeri Subsea Piping in the Caspian Sea and manage weekly reporting. I planned the design scope for Process Engineering, Materials Engineering, and HVAC disciplines for both Onshore (brownfield) and Offshore (greenfield) work.
-Skills: Primavera P6 · Project Reporting · Stakeholder Engagement · Data Visualization · Reporting · Client Relations · Project Controls · Data Management · Excel
-Skills: Primavera P6 · Project Reporting · Stakeholder Engagement · Data Visualization · Reporting · Client Relations · Project Controls · Data Management · Excel
-Ledwood Mechanical Engineering Ltd logo
-Lead Planner
-Lead Planner
-Ledwood Mechanical Engineering Ltd · ContractLedwood Mechanical Engineering Ltd · Contract
-Aug 2011 - Apr 2012 · 9 mosAug 2011 to Apr 2012 · 9 mos
-Pembroke Dock Head OfficePembroke Dock Head Office
-Created Primavera resource loaded schedules for the fabrication and installation of a VDU, installed during a turnaround/shutdown on the Valero petroleum refinery. The project included the design, fabrication, assembly, and installation of the unit.
-Created Primavera resource loaded schedules for the fabrication and installation of a VDU, installed during a turnaround/shutdown on the Valero petroleum refinery. The project included the design, fabrication, assembly, and installation of the unit.
-Skills: Primavera P6 · Project Reporting · Stakeholder Engagement · Data Visualization · Reporting · Client Relations · Project Controls · Data Management · Excel
-Skills: Primavera P6 · Project Reporting · Stakeholder Engagement · Data Visualization · Reporting · Client Relations · Project Controls · Data Management · Excel
-Somi Impianti Demolizioni  logo
-Planning Manager
-Planning Manager
-Somi Impianti Demolizioni · ContractSomi Impianti Demolizioni · Contract
-Jun 2010 - Aug 2011 · 1 yr 3 mosJun 2010 to Aug 2011 · 1 yr 3 mos
-Pembrokeshire, Wales, United KingdomPembrokeshire, Wales, United Kingdom
-Engaged to lead the planning team during the construction of Europe’s largest CCGT Power Station, overseeing planning, execution, reporting and was required to create an integrated level 4 project schedule for piping, mechanical equipment, procurement, fabrication, and commissioning as well as cooling water systems and a subcontractor interface for insulation and scaffold.
-Engaged to lead the planning team during the construction of Europe’s largest CCGT Power Station, overseeing planning, execution, reporting and was required to create an integrated level 4 project schedule for piping, mechanical equipment, procurement, fabrication, and commissioning as well as cooling water systems and a subcontractor interface for insulation and scaffold.
-Skills: Senior Stakeholder Management · Primavera P6 · Project Reporting · Stakeholder Engagement · Data Visualization · Reporting · Oracle Database · Client Relations · Team Management · Project Controls · Data Management · Excel · Team Leadership
-Skills: Senior Stakeholder Management · Primavera P6 · Project Reporting · Stakeholder Engagement · Data Visualization · Reporting · Oracle Database · Client Relations · Team Management · Project Controls · Data Management · Excel · Team Leadership
-Alstom logo
-Project Planner | CMS Reporting Engineer
-Project Planner | CMS Reporting Engineer
-Alstom · ContractAlstom · Contract
-Aug 2009 - Jun 2010 · 11 mosAug 2009 to Jun 2010 · 11 mos
-Staythorpe, NottinghamStaythorpe, Nottingham
-Project planner responsible for maintaining Alstom’s site schedule and interfacing sub-contractors for the construction of a 1600MW CCGT Power Station Nottinghamshire.
-I coordinated with sub-contractors, engineering departments, and planning managers for updates on quantities and resource to produce weekly and monthly site reports in Primavera P6 and Alstom’s Construction Monitoring System (CMS).
-Project planner responsible for maintaining Alstom’s site schedule and interfacing sub-contractors for the construction of a 1600MW CCGT Power Station Nottinghamshire. I coordinated with sub-contractors, engineering departments, and planning managers for updates on quantities and resource to produce weekly and monthly site reports in Primavera P6 and Alstom’s Construction Monitoring System (CMS).
-Skills: Primavera P6 · Project Reporting · Stakeholder Engagement · Microsoft Excel · Data Visualization · Reporting · Client Relations · Management · Project Controls · Data Management · Excel
-Skills: Primavera P6 · Project Reporting · Stakeholder Engagement · Microsoft Excel · Data Visualization · Reporting · Client Relations · Management · Project Controls · Data Management · Excel
-Planning Manager
-Planning Manager
-Planning Manager
-Ailsbury Engineering · ContractAilsbury Engineering · Contract
-May 2007 - Aug 2009 · 2 yrs 4 mosMay 2007 to Aug 2009 · 2 yrs 4 mos
-Gulf Refinery - Milford Haven, Pembrokeshire · On-siteGulf Refinery - Milford Haven, Pembrokeshire · On-site
-Engaged by the company directors to lead planning efforts for three dismantling projects in Europe. Each site was to be dismantled, packaged, and transported to buyers in Asia for reconstruction. As a lead planner, I was responsible for creating activity, cost, and resource loaded P6 schedules and reported on Baseline variances, EVM, CPI, SPI, cost, resource demand, and assets shipped. All schedules and WBS were created using original site ISOs and P&IDs and included logistics scheduling and cranage planning for exceptional loads.
+However, the adoption rate isn’t the
+true test of GenAI’s potential. Rather,
+it’s the caliber of copy that it creates,
+and its ability to personalize that
+copy to individual customers. AI may
+someday be capable of orchestrating
+marketing campaigns as iconic as
+Apple’s 1984 ad, but in ways
+that resonate on an individual
+level. For example, instead
+of an iPhone ad highlighting
+the device’s broad feature
+suite, it could speak to the
+specific interests of the
+individual viewer.
+The possibilities are endless,
+but marketers must first work
+out what’s to be considered
+“fair play.” Right now, there’s
+a decided split on how to
+use AI in the content creation
+process; two-thirds use GenAI
+for creative brainstorming sessions,
+first drafts, and outlines, while
+49% say they rely on AI to produce
+final content. Adoption is skewed
+towards B2B companies, with 78%
+using GenAI compared to 65% of
+B2C companies
+Image Creation
+Chatbots
+Audio/Voice
+Application and Adoption Rates of Generative AI
+Text Creation
+50%
+Coding
+58%
+36%
+69%
+37% AI is capable of generating several variations
+of an image based on a description in seconds.
+These images can then be used as ad creative,
+concept images, or in other applications.
+Chatbots have both business-facing and
+consumer-facing applications, helping answer
+questions, resolve issues, and streamline the
+support process, as well as provide pCommon Roadblocks of
+GenAI Adoption
+11 BOTCO.AI | THE STATE OF GENAI CHATBOTS IN MARKETING
+While GenAI has seen widespread
+adoption and tangible benefits for
+marketing agencies that use it, it’s not
+without its faults. The most common
+roadblock to adoption is the team
+training required to use it effectively,
+which 50% of respondents cited as
+an issue. Meanwhile, 45% cited the
+cost of generative AI and another 45%
+cited privacy and security concerns
+as obstacles.
+Lesser challenges include data scarcity
+and poor quality of content, which
+received 31% and 29% responses,
+respectively. Additionally, 24% of
+respondents marked unethical biases as
+a concern, a fear that isn’t unfounded
+with generative AI content. AI is created
+by humans, and is thus imperfect. If
+it analyzes prejudiced or biased data,
+it’s possible that it will recite that
+information. It’s not uncommon for AI
+tools to “hallucinate” — the longer some
+AI engage in a single conversation, the
+more likely it is that they’ll make up
+facts or non-sequiturs.2 Marketers must
+carefully choose their GenAI tools to
+mitigate the risk of hallucinatory content
+slipping through the cracks.
+It certainly doesn’t help that there’s a
+lack of parity in the content between AI
+models. While some applications are
+capable of stringing together complex
+ideas in a way that seems relatively fluid
+and natural3, that’s not necessarily true
+across the board.
+Even when these models write
+confidently, they might not do it
+competently. They typically train on
+publicly available data, such as the
+information one could find on Wikipedia.
+As a result, AI will often cite erroneous
+information in the text it generates.
+Worse, inaccurate data is often
+presented as truth.
