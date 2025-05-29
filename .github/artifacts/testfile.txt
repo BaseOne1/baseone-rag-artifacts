@@ -58,10 +58,7 @@ an issue. Meanwhile, 45% cited the
 cost of generative AI and another 45%
 cited privacy and security concerns
 as obstacles.
-Lesser challenges include data scarcity
-and poor quality of content, which
-received 31% and 29% responses,
-respectively. Additionally, 24% of
+Additionally, 24% of
 respondents marked unethical biases as
 a concern, a fear that isn’t unfounded
 with generative AI content. AI is created
