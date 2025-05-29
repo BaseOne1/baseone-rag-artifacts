@@ -10,7 +10,7 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 
 dynamodb = boto3.resource("dynamodb", region_name=os.environ["AWS_REGION"])
 table = dynamodb.Table("BaseOneRAG")
-OPENAI_API_KEY = os.environ["OPENAI_API_KEY"]  # Add to GitHub Secrets
+OPENAI_API_KEY = os.environ["OPENAI_API_KEY"]
 
 text_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=50)
 
@@ -64,7 +64,7 @@ def chunk_and_upload(text, source):
             id = str(uuid.uuid4())
             try:
                 table.put_item(Item={
-                    "PK": "DOC#BaseOne",  # Match Lambda's partition key
+                    "PK": "DOC#BaseOne", 
                     "SK": f"CHUNK#{id}",
                     "text": chunk,
                     "embedding": embedding,
