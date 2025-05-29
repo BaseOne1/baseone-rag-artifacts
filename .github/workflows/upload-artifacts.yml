@@ -3,7 +3,7 @@ name: Upload Artifacts to RAG
 on:
   push:
     paths:
-      - artifacts/**
+      - .github/artifacts/**
 
 jobs:
   process-and-upload:
