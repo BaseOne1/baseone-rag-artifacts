@@ -23,7 +23,7 @@ jobs:
           pip install boto3 langchain openai python-docx python-pptx pandas pdfplumber openpyxl
 
       - name: Run Ingestion Script
-        run: python .github/scripts/ingested_artifacts.py
+        run: python .github/scripts/ingest_artifacts.py
         env:
           AWS_REGION: us-west-2
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
