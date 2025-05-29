@@ -1,0 +1,28 @@
+name: Upload Artifacts to RAG
+on:
+  push:
+    paths:
+      - artifact/**
+jobs:
+  process-and-upload:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: |
+          pip install boto3 langchain openai python-docx python-pptx pandas pdfplumber openpyxl
+
+      - name: Run Ingestion Script
+        run: python .github/scripts/ingest_artifacts.py
+        env:
+          AWS_REGION: us-west-2
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
