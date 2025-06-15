@@ -15,7 +15,7 @@ dynamodb = boto3.resource("dynamodb", region_name=os.environ["AWS_REGION"])
 table = dynamodb.Table("BaseOneRAG")
 OPENAI_API_KEY = os.environ["OPENAI_API_KEY"]
 
-text_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=50)
+text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=100)
 MAX_THREADS = 8  # You can adjust based on expected load and API limits
 
 def embed_text(text):
